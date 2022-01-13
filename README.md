@@ -14,7 +14,9 @@ run This command line
 
 
 ## Usage 
-view and manage the departments, roles, and employees in a company
+API GET routes in Insomnia for categories, products, or tags
+THEN the data for each of these routes is displayed in a formatted JSON
+create, update, and delete data in my database
 
 ## Badges
 
