@@ -9,6 +9,10 @@ back end for my e-commerce website that uses the latest technologies using Node.
 add  database name, MySQL username, and MySQL password to an environment variable file (.env)
 
 run This command line 
+
+* crate database 
+(source db/schema.sql)
+* npm run seed
 * npm i
 * node start
 
@@ -22,5 +26,5 @@ create, update, and delete data in my database
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-## Screenshotgit a
-[Video download Link](https://github.com/alotfey/Employee-Tracker/blob/main/media/Untitled_%20Jan%209,%202022%205_32%20PM.webm?raw=true)
+##  Video 
+[Video download Link](https://drive.google.com/file/d/1MfsYaZ3S9I4JvVkWbIcuMXY4yYDWiPiq/view)
